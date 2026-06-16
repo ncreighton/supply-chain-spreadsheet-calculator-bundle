@@ -1,2 +1,25 @@
-# supply-chain-spreadsheet-calculator-bundle
-Streamline your supply chain management with this comprehensive spreadsheet calculator bundle, designed for logistics professionals, small business owners, and operations managers. This template set includes multiple interconnected spreadsheets that automate inventory tracking, demand forecasting, supplier performance evaluation, and cost analysis.
+# Supply Chain Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJebJ1cLl0bW8FG1ZicZW3U)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJebJ1cLl0bW8FG1ZicZW3U)
+
